@@ -33,7 +33,7 @@ I'm a passionate Full Stack Developer from Noida, India, currently working at **
 
 ## 📈 Goals
 
-- 💸 Achieve a **05+ LPA salary**  
+- 💸 Achieve a **30+ LPA salary**  
 - 🏠 Build and gift a home to my mom  
 - 🎓 Pursue **MCA** from a reputed & affordable institution  
 - 🌐 Grow my personal tech blog at [phpdev.in](https://phpdev.in)
